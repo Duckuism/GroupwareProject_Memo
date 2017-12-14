@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/YouDuk/GroupwareProject_Memo#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "sequelize": "^4.28.1",
+    "sequelize-cli": "^3.2.0",
+    "sqlite3": "^3.1.13"
   }
 }
