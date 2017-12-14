@@ -1,0 +1,22 @@
+{
+  "name": "groupwareproject_memo",
+  "version": "1.0.0",
+  "description": "Part Memo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouDuk/GroupwareProject_Memo.git"
+  },
+  "author": "Youduk Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouDuk/GroupwareProject_Memo/issues"
+  },
+  "homepage": "https://github.com/YouDuk/GroupwareProject_Memo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
